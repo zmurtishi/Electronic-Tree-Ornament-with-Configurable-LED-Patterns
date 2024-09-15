@@ -1,6 +1,6 @@
 Electronic Tree Ornament with Configurable LED Patterns
-Introduction
 
+Introduction
 We first got a tree for the holidays in the winter of 2023. We’re not religious or anything, but we thought it would be nice to have in our living room. After getting the tree set up in the living room, we found that we had very little to put on it. Besides some ornaments we baked (yes, in the oven) with applesauce and cinnamon, it was rather bare. I had an idea, however.
 During my day job, I am a designer of embedded systems. I’m familiar with designing small form-factor electronics and their accompanying PCBs, so I thought: why not try to design an ornament for our tree? My first concepts for this involved a circular PCB with five red LEDs. The first revision was a simple on-off device where the LEDs would turn on when a switch was turned. The second was a simple 555 oscillator circuit that simply blinked the LEDs on and off when power was applied. Both concepts were powered by a 2032 battery cell. I ended up giving away a few of these to friends and they were seen as a fun curiosity.
 
